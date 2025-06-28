@@ -1,6 +1,6 @@
 # Modelo simples de Classificação de Imagens com Teachable Machine
 
-Este é um modelo de Inteligência Artificial treinado com o [Teachable Machine](https://teachablemachine.withgoogle.com/) do Google, com objetivo de classificar imagens em diferentes categorias.
+Este é um modelo de Inteligência Artificial treinado com o [Teachable Machine](https://teachablemachine.withgoogle.com/) do Google, com objetivo de classificar imagens em diferentes categorias (animais).
 
 ## 📊 Parâmetros do Treinamento
 
@@ -16,7 +16,7 @@ Este é um modelo de Inteligência Artificial treinado com o [Teachable Machine]
 
 ## 🎥 Vídeo de Apresentação
 
-👉 [Clique aqui para assistir no YouTube](https://youtube.com/seu-link-aqui)
+👉 [Clique aqui para assistir no YouTube](https://youtu.be/5VEKH2Gg1Vc)
 
 ## 👨‍💻 Desenvolvido por
 
