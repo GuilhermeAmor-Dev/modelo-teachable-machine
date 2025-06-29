@@ -10,9 +10,13 @@ Este é um modelo de Inteligência Artificial treinado com o [Teachable Machine]
 
 ## 📦 Conteúdo
 
-- `model.json` – Estrutura do modelo
-- `metadata.json` – Informações sobre as classes
-- `weights.bin` – Pesos treinados pelo modelo
+- `model.json` – Estrutura do modelo  
+- `metadata.json` – Informações sobre as classes  
+- `weights.bin` – Pesos treinados pelo modelo  
+
+## 🔍 Teste o Modelo
+
+👉 [Clique aqui para testar a IA](https://teachablemachine.withgoogle.com/models/GSFGUlHnh/)
 
 ## 🎥 Vídeo de Apresentação
 
@@ -20,5 +24,4 @@ Este é um modelo de Inteligência Artificial treinado com o [Teachable Machine]
 
 ## 👨‍💻 Desenvolvido por
 
-**Guilherme Amor**  
-
+**Guilherme Amor**
